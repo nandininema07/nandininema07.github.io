@@ -91,3 +91,7 @@ body{
     color:#2488ec ;
     font-size: 50px;
 }
+
+.skills ul{
+    list-style-type: none;
+}
